@@ -13,6 +13,7 @@ Just pushing forward my Go learning path solving katas from [Codewars](https://w
 
 ```shell
 $ go test ./...
-ok      github.com/pabloxio/codewars/6-kyu/human_readable_time  0.154s
-ok      github.com/pabloxio/codewars/6-kyu/to_camel_case        0.092s
+ok      github.com/pabloxio/codewars/5-kyu/valid_parentheses    0.323s
+ok      github.com/pabloxio/codewars/6-kyu/human_readable_time  0.501s
+ok      github.com/pabloxio/codewars/6-kyu/to_camel_case        0.413s
 ```
