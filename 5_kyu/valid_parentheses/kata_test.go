@@ -3,7 +3,7 @@ package main_test
 import (
 	"testing"
 
-	kata "github.com/pabloxio/codewars/5-kyu/valid_parentheses"
+	kata "github.com/pabloxio/codewars/5_kyu/valid_parentheses"
 )
 
 

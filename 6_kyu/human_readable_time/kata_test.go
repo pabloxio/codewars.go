@@ -2,7 +2,7 @@ package main_test
 
 import (
 	"testing"
-	kata "github.com/pabloxio/codewars/6-kyu/human_readable_time"
+	kata "github.com/pabloxio/codewars/6_kyu/human_readable_time"
 )
 
 func TestHumanReadableTime(t *testing.T) {

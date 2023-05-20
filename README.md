@@ -6,14 +6,11 @@ Just pushing forward my Go learning path solving katas from [Codewars](https://w
 
 ## Prerequisites
 
-- I'm using [go1.19.x](https://go.dev/dl/)
+- I'm using [go1.20.x](https://go.dev/dl/)
 
 ## Tests
 
 
 ```shell
-$ go test ./...
-ok      github.com/pabloxio/codewars/5-kyu/valid_parentheses    0.323s
-ok      github.com/pabloxio/codewars/6-kyu/human_readable_time  0.501s
-ok      github.com/pabloxio/codewars/6-kyu/to_camel_case        0.413s
+go test ./...
 ```

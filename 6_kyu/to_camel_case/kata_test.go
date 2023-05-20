@@ -2,7 +2,7 @@ package main_test
 
 import (
 	"testing"
-	kata "github.com/pabloxio/codewars/6-kyu/to_camel_case"
+	kata "github.com/pabloxio/codewars/6_kyu/to_camel_case"
 )
 
 func TestToCamelCase(t *testing.T) {
