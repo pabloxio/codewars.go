@@ -2,7 +2,8 @@
 
 # Codewars kata solutions with Go
 
-Just pushing forward my Go learning path solving katas from [Codewars](https://www.codewars.com/dashboard).
+Just pushing forward my Go learning path solving katas from
+[Codewars](https://www.codewars.com/dashboard).
 
 ## Prerequisites
 
