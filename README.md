@@ -7,7 +7,8 @@ Just pushing forward my Go learning path solving katas from
 
 ## Prerequisites
 
-- I'm using [go1.22.x](https://go.dev/dl/)
+- I'm using [go1.20.x](https://go.dev/dl/) (Latest Go version supported by
+  Codewars)
 
 ## Tests
 
