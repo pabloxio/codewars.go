@@ -1,6 +1,6 @@
-![](https://www.codewars.com/users/pabloxio/badges/large)
-
 # Codewars kata solutions with Go
+
+![palboxio](https://www.codewars.com/users/pabloxio/badges/large)
 
 Just pushing forward my Go learning path solving katas from
 [Codewars](https://www.codewars.com/dashboard).
